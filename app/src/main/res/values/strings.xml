@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AI Dubber Pro</string>
+    <string name="app_subtitle">កម្មវិធីបញ្ចូលសំឡេងវីដេអូ (Video Dubbing Developer Studio)</string>
+    <string name="trial_badge">សល់ 6ថ្ងៃ ផុតកំណត់</string>
+    
+    <!-- Section 1 Media & Subtitles -->
+    <string name="sec_media_subtitles">1. រៀបចំឯកសារ (Media &amp; Subtitles)</string>
+    <string name="btn_video">វីដេអូ</string>
+    <string name="btn_download_mp3">ទាញយក MP3</string>
+    <string name="btn_srt_sub">អក្សរ SRT</string>
+    <string name="btn_upload_srt">បញ្ចូល SRT</string>
+    <string name="btn_transcribe">កត់ត្រាសំឡេង</string>
+    <string name="btn_translate">បកប្រែ</string>
+    
+    <!-- Section 2 Voice & Audio -->
+    <string name="sec_voice_audio">2. កំណត់សំឡេង (Voice &amp; Audio)</string>
+    <string name="lbl_speed">ល្បឿន</string>
+    <string name="lbl_pitch">កម្រិតសំឡេង (Pitch)</string>
+    <string name="lbl_ducking">បន្ថយសំឡេងដើម (Ducking)</string>
+    <string name="lbl_original_vol">សំឡេងដើម</string>
+    <string name="lbl_translation_vol">សំឡេងបកប្រែ</string>
+    <string name="lbl_remove_noise">លុបសំឡេងផ្សេងៗ</string>
+    <string name="lbl_remove_noise_desc">រក្សានៅតែសំឡេងច្រៀង (ចំណាំ៖ មានប្រសិទ្ធភាពតែពេល Export ចេញជាវីដេអូប៉ុណ្ណោះ)</string>
+    
+    <!-- Section 3 Watermark & Blur -->
+    <string name="sec_watermark_blur">3. ផ្កាសញ្ញា (Watermark &amp; Blur)</string>
+    <string name="btn_watermark_blur_config">រៀបចំ Watermark និង Blur</string>
+    
+    <!-- Section 4 Preview & Export -->
+    <string name="sec_preview_export">4. ចេញវីដេអូ (Preview &amp; Export)</string>
+    <string name="btn_preview">Preview</string>
+    <string name="btn_create_export">បង្កើត និងនាំចេញ</string>
+    
+    <!-- AI Dialogue & Status -->
+    <string name="status_ready">Ready for dubbing</string>
+    <string name="status_processing">Processing with Gemini AI...</string>
+</resources>

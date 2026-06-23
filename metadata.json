@@ -1,0 +1,6 @@
+{
+  "name": "AI Dubber Pro",
+  "description": "Professional AI-powered video dubbing, subtitle translation, and voice customization tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
